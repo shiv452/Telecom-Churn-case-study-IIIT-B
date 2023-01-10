@@ -1,6 +1,6 @@
 # Telecom-Churn-case-study-IIIT-B
 
-Introduction and Problem Statement
+#Introduction and Problem Statement
 Business problem overview
  
 
